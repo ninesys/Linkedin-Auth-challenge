@@ -8,7 +8,7 @@ you can make a UI over the top of this module. but its for server implementation
 This is the node module of the python implementation of the following repo
 so special thanks to <https://github.com/everping/Linkedin-Authentication-Challenge>
 
-## python version
+## Python version
  [Check python version] (https://github.com/everping/Linkedin-Authentication-Challenge)
 
 
@@ -19,7 +19,7 @@ so special thanks to <https://github.com/everping/Linkedin-Authentication-Challe
 
 Require the module
 ```JS
-    const LinkedinAuthChallenge = require("../LinkedinAuthChallenge");
+    const LinkedinAuthChallenge = require("linkedin-auth-challenge");
 ```
 this make an instance
 

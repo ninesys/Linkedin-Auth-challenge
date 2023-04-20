@@ -1,5 +1,5 @@
 {
-  "name": "LinkedinAuthChallenge",
+  "name": "linkedin-auth-challenge",
   "version": "1.0.1",
   "description": "Linkedin Auth challenge resolver using pin",
   "main": "index.js",

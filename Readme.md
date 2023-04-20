@@ -61,3 +61,6 @@ return { "status": "success", "message": "you are successfully registered!" }
 
 1. "you are successfully registered!", when every thing goes as expected
 2. "Please check email", when user logged in & a PIN message shotted.
+
+
+## This package is not affiliated to linkedin in any manner, this package comes with no warranty
